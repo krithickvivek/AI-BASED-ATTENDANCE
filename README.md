@@ -100,6 +100,8 @@ AI-Classroom-Attendance/
 
 <img width="771" height="513" alt="image" src="https://github.com/user-attachments/assets/1565234c-7e36-4534-be48-c04e36f2f811" />
 
+---
+
 | Student Name | Attendance |
 |---|---|
 | Rahul | Present |
@@ -110,7 +112,10 @@ AI-Classroom-Attendance/
 ---
 
 ## 📌 Group Photo 2 Result
+
 <img width="771" height="506" alt="image" src="https://github.com/user-attachments/assets/ebd807d8-e4e2-46cd-b66c-28b45bfefb6d" />
+
+---
 
 | Student Name | Attendance |
 |---|---|
